@@ -24,7 +24,7 @@ How to use?
 
 Can I use this without any cable?
 ----------------------------------
-Yes, you can use this via wifi network. There is a nice application in android market "Wifi Adb". You must have the phone "rooted".
+Yes, you can use this via wifi network. There is a nice application in android market This is ["Wifi Adb"](https://market.android.com/details?id=com.ttxapps.wifiadb "Wifi Adb"). You must have the phone "rooted".
 
 
 Contribution
